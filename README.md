@@ -53,8 +53,9 @@ Use the above to answer the following:
 > Which model has a lower loss?
 * LSTM Stock Predictor Using Closing Prices has a lower loss rate.
 > Which model tracks the actual values better over time?
-* 
+* Actaul closing prices tracks closer over time. 
 > Which window size works best for the model?
+* Lower the window size to optimize both models attached. 
 
 - - -
 
@@ -67,23 +68,3 @@ Use the above to answer the following:
 [Stanford's RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 - - -
-
-### Hints and Considerations
-
-Experiment with the model architecture and parameters to see which provides the best results, but be sure to use the same architecture and parameters when comparing each model.
-
-For training, use at least 10 estimators for both models.
-
-- - -
-
-### Submission
-
-* Create Jupyter Notebooks for the homework and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your homework and include this report in your GitHub repository.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
