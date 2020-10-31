@@ -51,9 +51,9 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+* LSTM Stock Predictor Using Closing Prices has a lower loss rate.
 > Which model tracks the actual values better over time?
->
+* 
 > Which window size works best for the model?
 
 - - -
