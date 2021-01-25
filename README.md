@@ -21,8 +21,6 @@ Use deep learning recurrent neural networks to model bitcoin closing prices. One
 
 - - -
 
-## Instructions
-
 ### Prepare the data for training and testing
 
 Use the starter code as a guide to create a Jupyter Notebook for each RNN. The starter code contains a function to create the window of time for the data in each dataset.
